@@ -1,0 +1,15 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "zh-TW": {
+      "title": "九命奇冤",
+      "description": "《九命奇冤》是晚清著名小說家吳沃堯於光緒年間創作的長篇小說，被列為晚清四大奇案之一。該書根據真實歷史事件改編，以曲折離奇的情節揭露了封建官場的腐敗與黑暗。"
+    }
+  }
+}

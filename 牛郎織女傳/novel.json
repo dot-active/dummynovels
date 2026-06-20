@@ -1,0 +1,16 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "zh-TW": {
+      "title": "牛郎織女傳",
+      "description": "《牛郎織女》是中國著名的四大民間傳說之一，講述平凡牧童牛郎與天界織女相戀，因人神之戀觸犯天條而遭天界拆散，最終感動天帝，獲准每年七夕在喜鵲搭成的「鵲橋」相會的淒美愛情故事。"
+    }
+
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(d:\\creation\\dummynovels\\**)",
+      "Write(d:/creation/dummynovels/**)",
+      "Write"
+    ]
+  }
+}
