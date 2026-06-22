@@ -1,0 +1,31 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "zh-TW": {
+      "title": "人間失格",
+      "description": "《人間失格》是太宰治罪重要的作品，纖細的自傳體中透露出極致的頹廢，毀滅式的絕筆之作。太宰治巧妙地將自己的人生與思想，隱藏於主角葉藏的人生遭遇，藉由葉藏的獨白，窺探太宰治的內心世界。"
+    },
+    "ja": {
+      "title": "人間失格",
+      "description": "『人間失格』は太宰治の最も重要な作品であり、繊細な自伝的筆致のなかに極限の退廃が滲み出る、破滅的な絶筆である。太宰治は自身の人生と思想を主人公・葉蔵の人生の遍歴に巧みに仮託し、葉蔵の独白を通じて太宰の内面世界を垣間見ることができる。"
+    },
+    "ko": {
+      "title": "인간 실격",
+      "description": "《인간 실격》은 다자이 오사무의 가장 중요한 작품으로, 섬세한 자전적 문체 속에 극한의 퇴폐가 배어나는 파멸적인 유작이다. 다자이 오사무는 자신의 삶과 사상을 주인공 요조의 인생 여정에 교묘히 담아내었으며, 요조의 독백을 통해 다자이의 내면세계를 들여다볼 수 있다."
+    },
+    "en": {
+      "title": "No Longer Human",
+      "description": "No Longer Human is the most important work of Osamu Dazai, a self-destructive final testament in which extreme decadence seeps through a delicate autobiographical prose. Dazai masterfully conceals his own life and thoughts within the experiences of his protagonist Yōzō, and through Yōzō's confessions the reader is granted a glimpse into Dazai's innermost world."
+    },
+    "es": {
+      "title": "Ya no soy humano",
+      "description": "Ya no soy humano es la obra más importante de Osamu Dazai, un testamento final y autodestructivo en el que una decadencia extrema se filtra a través de una delicada prosa autobiográfica. Dazai disimula con maestría su propia vida y su pensamiento en las vivencias del protagonista Yōzō, y a través de las confesiones de Yōzō el lector atisba el mundo interior de Dazai."
+    }
+  }
+}

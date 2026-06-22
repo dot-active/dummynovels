@@ -1,0 +1,33 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "zh-TW": {
+      "title": "醉醒石",
+      "description": "《醉醒石》是明末清初时期，由“东鲁古狂生”撰写的白话短篇小说集。全书共十五卷，每卷包含一个独立的故事，主要聚焦于明代社会的忠义节烈、贪官惩治、因果报应以及侠义行径，具有鲜明的劝善惩恶色彩。"
+    },
+  
+  "en": {
+    "title": "The Stone of Sobriety and Awakening",
+    "description": "\"The Stone of Sobriety and Awakening\" is a collection of vernacular short stories written during the transition from the late Ming to the early Qing dynasty by an author known as 'Donglu Gukuangsheng' (The Eccentric Old Madman of Eastern Lu). The work consists of fifteen volumes, each containing an independent story. Its themes focus on loyalty, righteousness, chastity, the punishment of corrupt officials, karmic retribution, and chivalrous deeds in Ming society, conveying a strong moral message of encouraging virtue and condemning evil."
+  },
+  "ja": {
+    "title": "酔醒石（すいせいせき）",
+    "description": "『酔醒石』は、明末清初の時代に「東魯古狂生」によって書かれた白話短編小説集です。全15巻から成り、各巻は独立した物語を収めています。主に明代社会における忠義、節烈、悪徳官吏の懲罰、因果応報、そして侠義的な行為を題材とし、善を勧め悪を戒めるという強い教訓的性格を持っています。"
+  },
+  "ko": {
+    "title": "취성석 (醉醒石)",
+    "description": "《취성석》은 명말청초 시기에 ‘동로고광생(東魯古狂生)’이 지은 백화 단편소설집입니다. 총 15권으로 이루어져 있으며, 각 권은 독립된 이야기를 담고 있습니다. 작품은 명나라 사회의 충의와 절개, 부패한 관리의 처벌, 인과응보, 그리고 협객적 의로운 행위를 주로 다루며, 선을 권장하고 악을 징계하는 뚜렷한 교훈적 성격을 지니고 있습니다."
+  },
+  "es": {
+    "title": "La Piedra de la Sobriedad y el Despertar",
+    "description": "\"La Piedra de la Sobriedad y el Despertar\" es una colección de relatos cortos en lengua vernácula escrita durante la transición entre las dinastías Ming y Qing por un autor conocido como 'Donglu Gukuangsheng' (el Viejo Excéntrico de Lu Oriental). La obra consta de quince volúmenes, cada uno con una historia independiente. Sus temas principales incluyen la lealtad, la rectitud, la castidad, el castigo de funcionarios corruptos, la retribución kármica y las acciones caballerescas en la sociedad de la dinastía Ming, con un marcado propósito moral de promover el bien y condenar el mal."
+  }
+}
+  }
+}

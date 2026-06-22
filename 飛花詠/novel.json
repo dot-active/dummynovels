@@ -1,0 +1,31 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "zh-TW": {
+      "title": "飛花詠",
+      "description": "故事講述才子昌谷與佳人端容居的愛情故事。兩人自小以一對玉雕的「比目魚」為婚約信物，後因雙方家族先後遭遇變故而失聯，各自歷經曲折磨難後，最終克服困難、重續姻緣。"
+    },
+      "en": {
+    "title": "Ode to Flying Flowers",
+    "description": "The story tells the romance between the talented scholar Chang Gu and the beautiful Duan Rongju. Since childhood, they were betrothed through a pair of jade-carved 'paired fish' tokens. After their families suffered successive misfortunes, they lost contact and endured many hardships separately. In the end, they overcame all obstacles and were reunited in marriage."
+  },
+  "ja": {
+    "title": "飛花詠（ひかえい）",
+    "description": "物語は、才子の昌谷（しょうこく）と佳人の端容居（たんようきょ）の恋愛を描いています。二人は幼い頃、一対の玉彫りの「比目魚」を婚約の証として交わしましたが、両家が相次いで不運に見舞われたことで離ればなれになります。それぞれが数々の苦難を経験した後、最終的に困難を乗り越え、再び結ばれます。"
+  },
+  "ko": {
+    "title": "비화영",
+    "description": "이 작품은 재능 있는 선비 창곡과 아름다운 여인 단용거의 사랑 이야기를 담고 있습니다. 두 사람은 어린 시절 한 쌍의 옥으로 조각된 '비목어'를 약혼의 증표로 삼았으나, 양가가 잇달아 변고를 겪으면서 서로 연락이 끊어집니다. 각자 수많은 시련을 겪은 끝에 마침내 어려움을 극복하고 다시 인연을 맺게 됩니다."
+  },
+  "es": {
+    "title": "Oda a las Flores Voladoras",
+    "description": "La historia narra el romance entre el talentoso erudito Chang Gu y la bella Duan Rongju. Desde la infancia, ambos estuvieron comprometidos mediante un par de peces tallados en jade como símbolo de su promesa matrimonial. Sin embargo, tras las desgracias que afectaron sucesivamente a sus familias, perdieron el contacto y afrontaron numerosas dificultades por separado. Finalmente, lograron superar todos los obstáculos y reunirse de nuevo para cumplir su destino matrimonial."
+  }
+  }
+}

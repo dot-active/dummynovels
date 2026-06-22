@@ -10,7 +10,22 @@
     "zh-TW": {
       "title": "牛郎織女傳",
       "description": "《牛郎織女》是中國著名的四大民間傳說之一，講述平凡牧童牛郎與天界織女相戀，因人神之戀觸犯天條而遭天界拆散，最終感動天帝，獲准每年七夕在喜鵲搭成的「鵲橋」相會的淒美愛情故事。"
+    },
+    "en": {
+      "title": "The Legend of the Cowherd and the Weaving Maid",
+      "description": "One of China's four great folk legends, this story tells of an ordinary cowherd who falls in love with a celestial weaving maid. Their forbidden romance violates the laws of heaven, and they are torn apart by the gods — yet their devotion moves the Jade Emperor, who grants them one reunion each year on the seventh night of the seventh month, when magpies form a bridge across the Milky Way."
+    },
+    "ja": {
+      "title": "牛郎織女傳",
+      "description": "中国四大民間伝説のひとつ。平凡な牧童・牛郎と、天界の織女が恋に落ちるが、人と神との禁じられた愛は天の掟を犯すとして引き裂かれてしまう。しかしその純粋な愛が玉皇大帝の心を動かし、毎年七夕の夜だけ、鵲たちが天の川に架ける「鵲橋」の上で再会することを許される、哀切なる愛の物語。"
+    },
+    "ko": {
+      "title": "견우직녀전",
+      "description": "중국의 유명한 사대 민간 전설 중 하나로, 평범한 목동 견우와 천상의 직녀가 사랑에 빠지는 이야기입니다. 인간과 신의 사랑은 하늘의 법도를 어긴다 하여 둘은 강제로 헤어지게 되지만, 그들의 진실한 사랑에 감동한 옥황상제가 매년 칠월 칠석에 까마귀와 까치가 놓은 오작교 위에서 단 한 번 만날 수 있도록 허락한다는 애틋한 사랑 이야기입니다."
+    },
+    "es": {
+      "title": "La leyenda del Boyero y la Tejedora",
+      "description": "Una de las cuatro grandes leyendas populares de China. Narra el amor entre un humilde pastor y una celestial tejedora que, al transgredir las leyes del cielo con su romance prohibido, son separados por los dioses. Sin embargo, la profundidad de su amor conmueve al Emperador de Jade, quien les concede un único reencuentro cada año, en la séptima noche del séptimo mes, cuando las urracas forman un puente sobre el Río Celestial."
     }
-
   }
 }

@@ -1,0 +1,31 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "zh-TW": {
+      "title": "桃花扇",
+      "description": "《桃花扇》所寫的是明朝末年發生在南京的故事。 全劇以侯方域、李香君的悲歡離合為主線，展現了明末南京的社會現實。 同時也揭露了弘光政權衰亡的原因，歌頌了對國家忠貞不渝的民族英雄和底層百姓，展現了明朝遺民的亡國之痛。"
+    },
+      "en": {
+    "title": "The Peach Blossom Fan",
+    "description": "\"The Peach Blossom Fan\" tells a story set in Nanjing during the final years of the Ming dynasty. Centered on the love and separation of Hou Fangyu and Li Xiangjun, the drama portrays the social realities of late Ming Nanjing. It also reveals the causes behind the collapse of the Hongguang regime, celebrates patriotic heroes and ordinary people who remained loyal to their country, and expresses the profound sorrow of Ming loyalists over the fall of their dynasty."
+  },
+  "ja": {
+    "title": "桃花扇（とうかせん）",
+    "description": "『桃花扇』は、明王朝末期の南京を舞台とした物語です。侯方域（こうほういき）と李香君（りこうくん）の愛と別れを主軸に、明末の南京社会の現実を描いています。また、弘光政権が滅亡した原因を明らかにするとともに、祖国への忠誠を貫いた民族的英雄や庶民を称え、明朝遺民の亡国の悲しみを表現しています。"
+  },
+  "ko": {
+    "title": "도화선",
+    "description": "《도화선》은 명나라 말기 난징을 배경으로 한 이야기입니다. 작품은 후방역과 이향군의 사랑과 이별을 중심으로 전개되며, 명말 난징 사회의 현실을 생생하게 보여 줍니다. 또한 홍광 정권이 몰락한 원인을 드러내고, 나라에 끝까지 충성을 바친 영웅들과 평범한 백성들을 찬양하며, 명나라 유민들이 느낀 망국의 슬픔을 표현하고 있습니다."
+  },
+  "es": {
+    "title": "El Abanico de Flores de Durazno",
+    "description": "\"El Abanico de Flores de Durazno\" narra una historia ambientada en Nankín durante los últimos años de la dinastía Ming. La obra sigue principalmente los amores, separaciones y reencuentros de Hou Fangyu y Li Xiangjun, reflejando la realidad social de la ciudad en esa época. Asimismo, expone las causas de la caída del régimen de Hongguang, exalta a los héroes patrióticos y a la gente común que permanecieron leales a su país, y expresa el profundo dolor de los leales a los Ming ante la pérdida de su dinastía."
+  }
+  }
+}
