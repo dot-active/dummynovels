@@ -1,0 +1,31 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "ja": {
+      "title": "吾輩は猫である",
+      "description": "夏目漱石の『吾輩は猫である』は、名前のない一匹の猫の視点を通して、明治時代の知識人たちの日常や人間社会の滑稽さ、矛盾を鋭くユーモラスに風刺した長編小説です"
+    },
+    "zh-TW": {
+      "title": "我是貓",
+      "description": "夏目漱石的《我是貓》是一部以一隻無名貓的視角出發,對明治時代知識份子的日常生活及人類社會的滑稽與矛盾進行犀利而幽默諷刺的長篇小說。"
+    },
+    "en": {
+      "title": "I Am a Cat",
+      "description": "Natsume Soseki's I Am a Cat is a novel narrated by a nameless cat, offering a sharp and comic satire of the daily lives of Meiji-era intellectuals and the absurdities and contradictions of human society."
+    },
+    "ko": {
+      "title": "나는 고양이로소이다",
+      "description": "나쓰메 소세키의 《나는 고양이로소이다》는 이름 없는 고양이의 시점을 통해 메이지 시대 지식인들의 일상과 인간 사회의 희극성, 모순을 날카롭고 유머러스하게 풍자한 장편소설입니다."
+    },
+    "es": {
+      "title": "Soy un gato",
+      "description": "Soy un gato, de Natsume Soseki, es una novela narrada desde la perspectiva de un gato sin nombre, que ofrece una aguda y humorística sátira de la vida cotidiana de los intelectuales de la era Meiji y de las absurdidades y contradicciones de la sociedad humana."
+    }
+  }
+}

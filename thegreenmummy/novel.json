@@ -1,0 +1,31 @@
+{
+  "authorId": "user_3DOYTJsMkFldTx7u8pKILVi2Nnu",
+  "categories": ["horror"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": [],
+  "coverUrl": "",
+  "status": "published",
+  "locales": {
+    "en": {
+      "title": "The Green Mummy",
+      "description": "The Green Mummy by Fergus Hume is a novel likely written during the late 19th century. The story revolves around a young couple, Archie Hope and Lucy Kendal, as they navigate romance against a backdrop filled with mystery and intrigue."
+    },
+    "ja": {
+      "title": "緑のミイラ",
+      "description": "ファーガス・ヒューム著『緑のミイラ』は、19世紀末頃に書かれた小説です。若い恋人たちアーチー・ホープとルーシー・ケンダルが、謎と陰謀に彩られた状況の中でロマンスを育む物語です。"
+    },
+    "zh-TW": {
+      "title": "綠色木乃伊",
+      "description": "《綠色木乃伊》是弗格斯·休姆所著的小說，約寫於十九世紀末。故事圍繞著年輕情侶阿奇·霍普與露西·肯達爾展開，兩人在充滿謎團與陰謀的氛圍中相互扶持、培育愛情。"
+    },
+    "ko": {
+      "title": "초록 미이라",
+      "description": "퍼거스 흄이 쓴 『초록 미이라』는 19세기 말에 집필된 소설입니다. 젊은 연인 아치 호프와 루시 켄달이 미스터리와 음모로 가득한 상황 속에서 사랑을 키워가는 이야기입니다."
+    },
+    "es": {
+      "title": "La momia verde",
+      "description": "La momia verde, de Fergus Hume, es una novela escrita probablemente a finales del siglo XIX. La historia gira en torno a una joven pareja, Archie Hope y Lucy Kendal, que vive su romance en medio de un ambiente cargado de misterio e intriga."
+    }
+  }
+}
