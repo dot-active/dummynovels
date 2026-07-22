@@ -1,0 +1,75 @@
+{
+  "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
+  "categories": ["romance","historical"],
+  "isAdult": false,
+  "isFeatured": true,
+  "autoTranslateLocales": ["zh-CN", "en", "ja", "ko", "es"],
+  "coverUrl": "https://pub-f524849484ab48198adbfa2079402a06.r2.dev/covers/e034bc12-11df-421c-950b-8cc01e726e1f.jpg",
+  "status": "published",
+  "sourceLocale": "zh-TW",
+
+
+  "locales": {
+    "zh-TW": {
+      "title": "邀月",
+      "description": "一座山莊，兩段半愛情，生死相許，相伴成長，還有那無法說出口的愛意。亂世光影中，家與仁義永存。唐德宗建中四年，長安爆發涇原之亂。年僅十二歲的郭慧憐劫後餘生，卻自此家破人亡，成為孤女。十五歲的邀月山莊莊主田繻為履行昔日承諾，將她自亂世中救出，帶回邀月山莊，也讓這座隱於風雨中的山莊，首次向外人敞開大門。 "
+    },
+    "zh-CN": {
+      "title": "邀月",
+      "description": "一座山庄，两段半爱情，生死相许，相伴成长，还有那无法说出口的爱意。乱世光影中，家与仁义永存。唐德宗建中四年，长安爆发泾原之乱。年仅十二岁的郭慧怜劫后余生，却自此家破人亡，成为孤女。十五岁的邀月山庄庄主田𦈡为履行昔日承诺，将她自乱世中救出，带回邀月山庄，也让这座隐于风雨中的山庄，首次向外人敞开大门。"
+    },
+    "en": {
+      "title": "Inviting the Moon",
+      "description": "One manor. Two and a half love stories. Vows sworn through life and death, a childhood spent growing up side by side, and a love that could never quite be spoken aloud. Amid the flickering shadows of a world in chaos, home and honor endure. In the fourth year of the Jianzhong era under Emperor Dezong of Tang, the Jingyuan Mutiny erupts in Chang'an. Twelve-year-old Guo Huilian survives the massacre only to lose everything—her family gone, her home destroyed, leaving her an orphan overnight. Tian Xu, the fifteen-year-old Lord of Yueyue Manor, honors a promise made years before and rescues her from the chaos, bringing her back to Yueyue Manor—and in doing so, opens the gates of this manor long hidden from the storms of the outside world to an outsider for the very first time."
+    },
+    "ja": {
+      "title": "邀月",
+      "description": "一つの山荘、二つ半の恋物語。生死を誓い合い、寄り添いながら共に育ち、そして口にできなかった想い。乱世の光と影の中で、家族の絆と仁義は永遠に色褪せない。唐の徳宗、建中四年、長安で涇原の乱が勃発する。わずか十二歳の郭慧憐は災禍を生き延びたものの、一夜にして家族を失い孤児となってしまう。十五歳の邀月山荘荘主・田𦈡はかつての約束を果たすべく、混乱の中から彼女を救い出し、邀月山荘へと連れ帰る。それは、嵐の中にひっそりと隠れてきたこの山荘が、初めて外部の者へと門を開いた瞬間でもあった。"
+    },
+    "ko": {
+      "title": "요월(邀月)",
+      "description": "하나의 산장, 두 개 반의 사랑 이야기. 생사를 걸고 맹세하며, 서로 의지하며 함께 자라온 시간, 그리고 끝내 입 밖으로 꺼내지 못한 그 마음. 어지러운 세상의 빛과 그림자 속에서도 가족의 정과 의리는 영원히 사라지지 않는다. 당 덕종 건중 4년, 장안에서 경원의 난이 일어난다. 겨우 열두 살의 곽혜련은 참극 속에서 살아남았으나, 하룻밤 사이에 가족을 모두 잃고 고아가 되고 만다. 열다섯 살의 요월산장 장주 전서는 예전의 약속을 지키기 위해 혼란 속에서 그녀를 구해내어 요월산장으로 데려간다. 그리고 그것은 폭풍우 속에 조용히 숨어 있던 이 산장이 처음으로 외부인에게 문을 여는 순간이기도 했다."
+    },
+    "es": {
+      "title": "Invitando a la Luna",
+      "description": "Una mansión. Dos historias y media de amor. Votos jurados a través de la vida y la muerte, una infancia pasada creciendo juntos, y un amor que nunca pudo pronunciarse del todo en voz alta. En medio de las sombras vacilantes de un mundo en caos, el hogar y el honor perduran. En el cuarto año de la era Jianzhong bajo el emperador Dezong de la dinastía Tang, estalla el Motín de Jingyuan en Chang'an. Guo Huilian, de doce años, sobrevive a la masacre solo para perderlo todo —su familia desaparecida, su hogar destruido, dejándola huérfana de la noche a la mañana. Tian Xu, el Señor de la Mansión Yueyue de quince años, honra una promesa hecha años atrás y la rescata del caos, llevándola de vuelta a la Mansión Yueyue— y con ello, abre por primera vez las puertas de esta mansión, largamente oculta de las tormentas del mundo exterior, a alguien de fuera."
+    }
+  },
+    "volumes": [
+    {
+      "chapterRange": [1, 5],
+      "locales": {
+        "zh-TW": { "title": "第一章 - 長安初遇" },
+        "zh-CN": { "title": "第一章 - 长安初遇" },
+        "en":    { "title": "Chapter 1 - First Encounter in Chang'an" },
+        "ja":    { "title": "第一章 - 長安初遇" },
+        "ko":    { "title": "제1장 - 장안에서의 첫 만남" },
+        "es":    { "title": "Capítulo 1 - Primer Encuentro en Chang'an" }
+      }
+    },
+    {
+      "chapterRange": [6, 9],
+      "locales": {
+        "zh-TW": { "title": "第二章 - 收網" },
+        "zh-CN": { "title": "第二章 - 收网" },
+        "en":    { "title": "Chapter 2 - Closing the Net" },
+        "ja":    { "title": "第二章 - 網を締める" },
+        "ko":    { "title": "제2장 - 그물을 거두다" },
+        "es":    { "title": "Capítulo 2 - Cerrando la Red" }
+      }
+    },
+    {
+      "chapters": [10],
+      "locales": {
+        "zh-TW": { "title": "第三章 - 睹物思人" },
+        "zh-CN": { "title": "第三章 - 睹物思人" },
+        "en":    { "title": "Chapter 3 - A Keepsake, and Memories of the Departed" },
+        "ja":    { "title": "第三章 - 形見を見て懐かしき人を想う" },
+        "ko":    { "title": "제3장 - 유품을 보며 그리운 사람을 생각하다" },
+        "es":    { "title": "Capítulo 3 - Un Recuerdo, y Memorias de la Difunta" }
+      }
+    }
+
+
+  ]
+}

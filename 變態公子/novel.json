@@ -1,0 +1,36 @@
+{
+  "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
+  "categories": ["romance"],
+  "isAdult": false,
+  "isFeatured": true,
+  "autoTranslateLocales": ["zh-CN", "en", "ja", "ko", "es"],
+  "coverUrl": "https://pub-f524849484ab48198adbfa2079402a06.r2.dev/covers/e034bc12-11df-421c-950b-8cc01e726e1f.jpg",
+  "status": "published",
+  "writingLanguage": "zh-TW",
+  "locales": {
+    "zh-TW": {
+      "title": "變態公子",
+      "description": "從一個莫名其妙的初識，開展了一段高韙昭與溫明娟之間亦莊亦諧的對手戲。《變態公子》就在這樣的背景下，藉由一群可愛的中學生穿針引線，逐步帶領讀者在男女主角之間拉起了一條命運相繫的細繩。這細繩，看不見、摸不著，卻緊緊的箍住了溫明娟與高韙昭的悲與喜，也箍住了讀者隨之起伏的情緒。悄然中，一切的變化遞嬗著……  "
+    },
+    "zh-CN": {
+      "title": "变态公子",
+      "description": "从一个莫名其妙的初识，展开了一段高韪昭与温明娟之间亦庄亦谐的对手戏。《变态公子》就在这样的背景下，借由一群可爱的中学生穿针引线，逐步带领读者在男女主角之间拉起了一条命运相系的细绳。这细绳，看不见、摸不着，却紧紧地箍住了温明娟与高韪昭的悲与喜，也箍住了读者随之起伏的情绪。悄然中，一切的变化递嬗着……"
+    },
+    "en": {
+      "title": "The Notorious Young Master",
+      "description": "From an inexplicable first encounter unfolds a serious-yet-playful battle of wits between Gao Weizhao and Wen Mingjuan. Against this backdrop, \"The Notorious Young Master\" follows a group of endearing middle schoolers who serve as the thread connecting the two leads, gradually drawing readers into a fine string of fate binding the male and female protagonists together. Invisible and untouchable, this thread tightly binds Wen Mingjuan and Gao Weizhao's sorrows and joys, and pulls the reader's emotions along with it. Quietly, everything continues to change and evolve..."
+    },
+    "ja": {
+      "title": "変態坊ちゃん",
+      "description": "意味不明な出会いから、高韙昭と温明娟の間で繰り広げられる、シリアスあり笑いありの物語が始まる。『変態坊ちゃん』はこうした背景の下、愛らしい中学生たちが縁を取り持ちながら、読者を主人公二人の間に結ばれた運命の細い糸へと徐々に導いていく。この糸は目に見えず、触れることもできないが、温明娟と高韙昭の悲しみと喜びをしっかりと縛り付け、読者の感情もまた、それに合わせて揺れ動く。静かなうちに、すべてが移り変わっていく……"
+    },
+    "ko": {
+      "title": "변태 공자",
+      "description": "뜻하지 않은 첫 만남에서 시작되어, 가오웨이자오와 원밍쥐안 사이에 펼쳐지는 진지하면서도 유쾌한 대결극이 전개된다. 《변태 공자》는 이러한 배경 속에서 사랑스러운 중학생들이 다리 역할을 하며, 독자를 남녀 주인공 사이에 맺어진 운명의 가는 실로 서서히 이끈다. 이 실은 보이지도, 만져지지도 않지만 원밍쥐안과 가오웨이자오의 슬픔과 기쁨을 단단히 옥죄고, 독자의 감정 또한 그에 따라 오르내리게 한다. 조용히, 모든 변화가 이어져 간다……"
+    },
+    "es": {
+      "title": "El Joven Amo Pervertido",
+      "description": "A partir de un primer encuentro inexplicable, se despliega una relación tan seria como divertida entre Gao Weizhao y Wen Mingjuan. En este contexto, \"El Joven Amo Pervertido\" utiliza a un grupo de entrañables estudiantes de secundaria como hilo conductor, guiando poco a poco al lector hacia el fino hilo del destino que une a los protagonistas. Este hilo, invisible e intangible, ata firmemente las penas y alegrías de Wen Mingjuan y Gao Weizhao, arrastrando también las emociones cambiantes del lector. Silenciosamente, todo continúa transformándose..."
+    }
+  }
+}

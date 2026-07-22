@@ -3,7 +3,7 @@
   "categories": ["horror"],
   "isAdult": false,
   "isFeatured": false,
-  "autoTranslateLocales": [],
+  "autoTranslateLocales": ["en","ja","ko","es"],
   "coverUrl": "",
   "status": "published",
   "locales": {
@@ -30,4 +30,3 @@
   }
 }
   }
-}
