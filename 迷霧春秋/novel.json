@@ -1,0 +1,19 @@
+{
+  "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
+  "categories": ["romance","fantasy"],
+  "isAdult": false,
+  "isFeatured": false,
+  "autoTranslateLocales": ["zh-CN", "en", "ja", "ko", "es"],
+  "coverUrl": "",
+  "status": "published",
+  "sourceLocale": "zh-TW",
+
+
+  "locales": {
+    "zh-TW": {
+      "title": "迷霧春秋",
+      "description": ""
+    }
+  },
+  "volumes": []
+}
