@@ -15,5 +15,84 @@
       "description": ""
     }
   },
-  "volumes": []
+  "volumes": [
+    {
+      "chapterRange": [1, 3],
+      "locales": {
+        "zh-TW": { "title": "第一章 - 迷霧" }
+      }
+    },
+    {
+      "chapterRange": [4, 6],
+      "locales": {
+        "zh-TW": { "title": "第二章 - 清溪小鎮" }
+      }
+    },
+    {
+      "chapterRange": [7, 10],
+      "locales": {
+        "zh-TW": { "title": "第三章 - 世外桃源" }
+      }
+    },
+    {
+      "chapterRange": [11, 13],
+      "locales": {
+        "zh-TW": { "title": "第四章 - 重返密林" }
+      }
+    },
+    {
+      "chapterRange": [14, 17],
+      "locales": {
+        "zh-TW": { "title": "第五章 - 曼春之嫁" }
+      }
+    },
+    {
+      "chapterRange": [18, 20],
+      "locales": {
+        "zh-TW": { "title": "第六章 - 捨修情牽" }
+      }
+    },
+    {
+      "chapterRange": [21, 25],
+      "locales": {
+        "zh-TW": { "title": "第七章 - 妖王父子" }
+      }
+    },
+    {
+      "chapterRange": [26, 30],
+      "locales": {
+        "zh-TW": { "title": "第八章 - 依約而至" }
+      }
+    },
+    {
+      "chapters": [31],
+      "locales": {
+        "zh-TW": { "title": "第九章 - 當頭棒喝" }
+      }
+    },
+    {
+      "chapterRange": [32, 34],
+      "locales": {
+        "zh-TW": { "title": "第十章 - 棋局之始" }
+      }
+    },
+    {
+      "chapterRange": [35, 37],
+      "locales": {
+        "zh-TW": { "title": "第十一章 - 天庭交鋒" }
+      }
+    },
+    {
+      "chapters": [38],
+      "locales": {
+        "zh-TW": { "title": "第十二章 - 乾坤定局" }
+      }
+    },
+    {
+      "chapterRange": [39, 41],
+      "locales": {
+        "zh-TW": { "title": "第十三章 - 終章" }
+      }
+    }
+  ]
 }
