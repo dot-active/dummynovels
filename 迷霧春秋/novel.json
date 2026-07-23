@@ -2,7 +2,7 @@
   "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
   "categories": ["romance","fantasy"],
   "isAdult": false,
-  "isFeatured": false,
+  "isFeatured": true,
   "autoTranslateLocales": ["zh-CN", "en", "ja", "ko", "es"],
   "coverUrl": "",
   "status": "published",
@@ -12,86 +12,171 @@
   "locales": {
     "zh-TW": {
       "title": "迷霧春秋",
-      "description": ""
+      "description": "取材自佛經中天人與阿修羅的傳說，《迷霧春秋》講述的卻並非一場征戰，而是一場止戰。傳說迷霧林中住著阿修羅族的小殿下阿奴。那裡終年濃霧不散，凡人入之即死，仙人亦難脫身，那是阿修羅王為愛女設下的法障，只為將她藏於林中，避免天族覬覦，禍事重演。她是迷霧深處最不可說的秘密，也是兩族紛爭的源頭，卻在一場天族與阿修羅族的戰事中，以高超魅惑術輕傷敵軍主帥，助阿修羅族鳴金收兵，止息戰火。"
+    },
+    "zh-CN": {
+      "title": "迷雾春秋",
+      "description": "取材自佛经中天人与阿修罗的传说，《迷雾春秋》讲述的却并非一场征战，而是一场止战。传说迷雾林中住着阿修罗族的小殿下阿奴。那里终年浓雾不散，凡人入之即死，仙人亦难脱身，那是阿修罗王为爱女设下的法障，只为将她藏于林中，避免天族觊觎，祸事重演。她是迷雾深处最不可说的秘密，也是两族纷争的源头，却在一场天族与阿修罗族的战事中，以高超魅惑术轻伤敌军主帅，助阿修罗族鸣金收兵，止息战火。"
+    },
+    "en": {
+      "title": "Chronicle of the Mist",
+      "description": "Drawing from the Buddhist legend of the Devas and the Asuras, Chronicle of the Mist tells not the story of a war, but of a war's ending. Legend has it that within the Misty Forest dwells Anu, the young princess of the Asura clan. Thick fog blankets that place year-round—mortals who enter perish, and even immortals struggle to escape. It is a magical ward set by the Asura King for his beloved daughter, meant only to hide her within the forest, safe from the Deva clan's covetous eyes, lest past tragedy repeat itself. She is the most unspeakable secret hidden deep within the mist, and the very source of the conflict between the two clans—yet in a battle between the Deva and Asura forces, it is she who, wielding an extraordinary art of enchantment, lightly wounds the enemy commander, helping the Asura clan sound the retreat and bring the fighting to an end."
+    },
+    "ja": {
+      "title": "霧の年代記",
+      "description": "仏典に伝わる天人と阿修羅の伝説に取材した『霧の年代記』が語るのは、一つの戦いではなく、一つの戦いの終わりである。伝説によれば、迷霧の森には阿修羅族の幼き姫君、阿奴が住んでいるという。その地には一年中濃い霧が立ち込め、人間が足を踏み入れれば命を落とし、仙人でさえも容易には抜け出せない。それは阿修羅王が愛娘のために張った結界であり、ただ彼女を森の中に隠し、天族の目論見を避け、過去の悲劇が繰り返されることのないようにするためのものであった。彼女は霧の奥深くに秘められた、口にできぬ最大の秘密であり、また両族の争いの源でもある。しかし天族と阿修羅族の戦いの最中、彼女はその卓越した魅惑の術を用いて敵将に軽傷を負わせ、阿修羅族が兵を退くのを助け、戦火を鎮めることとなる。"
+    },
+    "ko": {
+      "title": "안개 속의 연대기",
+      "description": "불경에 전해지는 천인(天人)과 아수라(阿修羅)의 전설에서 소재를 취한 《안개 속의 연대기》가 그리는 것은 하나의 전쟁이 아니라, 하나의 전쟁을 멈추게 하는 이야기이다. 전설에 따르면, 미무림(迷霧林) 속에는 아수라족의 어린 공주 아누(阿奴)가 살고 있다고 한다. 그곳은 일 년 내내 짙은 안개가 걷히지 않아, 사람이 들어가면 목숨을 잃고 신선조차도 쉽사리 벗어나지 못한다. 그것은 아수라왕이 사랑하는 딸을 위해 펼쳐놓은 결계로서, 그녀를 숲 속에 숨겨 천족의 탐욕스러운 시선을 피하고, 지난날의 비극이 되풀이되지 않도록 하기 위함이었다. 그녀는 안개 깊숙한 곳에 감추어진, 결코 입 밖에 낼 수 없는 가장 큰 비밀이자, 두 종족 간 분쟁의 근원이기도 하다. 그러나 천족과 아수라족 간의 전투 중, 그녀는 뛰어난 매혹술로 적장에게 가벼운 상처를 입혀 아수라족이 징을 울려 군사를 거두게 함으로써 전화(戰火)를 그치게 하였다."
+    },
+    "es": {
+      "title": "Crónica de la Niebla",
+      "description": "Inspirada en la leyenda budista de los Devas y los Asuras, Crónica de la Niebla no narra una guerra, sino el fin de una. Cuenta la leyenda que en el Bosque de la Niebla habita Anu, la joven princesa del clan Asura. Una espesa niebla cubre ese lugar todo el año —los mortales que entran perecen, e incluso los inmortales apenas logran escapar. Es una barrera mágica que el Rey Asura estableció para su amada hija, con el único propósito de ocultarla en el bosque, a salvo de la codicia del clan de los Devas, para que la tragedia del pasado no se repitiera. Ella es el secreto más indecible oculto en las profundidades de la niebla, y también el origen mismo del conflicto entre los dos clanes —y sin embargo, en una batalla entre las fuerzas Deva y Asura, es ella quien, empleando un extraordinario arte de encantamiento, hiere levemente al comandante enemigo, ayudando al clan Asura a hacer sonar la retirada y poner fin a la contienda."
     }
   },
   "volumes": [
     {
       "chapterRange": [1, 3],
       "locales": {
-        "zh-TW": { "title": "第一章 - 迷霧" }
+        "zh-TW": { "title": "第一章 - 迷霧" },
+        "zh-CN": { "title": "第一章 - 迷雾" },
+        "en":    { "title": "Chapter 1 - The Mist" },
+        "ja":    { "title": "第一章 - 霧" },
+        "ko":    { "title": "제1장 - 안개" },
+        "es":    { "title": "Capítulo 1 - La Niebla" }
       }
     },
     {
       "chapterRange": [4, 6],
       "locales": {
-        "zh-TW": { "title": "第二章 - 清溪小鎮" }
+        "zh-TW": { "title": "第二章 - 清溪小鎮" },
+        "zh-CN": { "title": "第二章 - 清溪小镇" },
+        "en":    { "title": "Chapter 2 - Clearstream Town" },
+        "ja":    { "title": "第二章 - 清渓の小さな町" },
+        "ko":    { "title": "제2장 - 청계 소진" },
+        "es":    { "title": "Capítulo 2 - El Pueblo del Arroyo Claro" }
       }
     },
     {
       "chapterRange": [7, 10],
       "locales": {
-        "zh-TW": { "title": "第三章 - 世外桃源" }
+        "zh-TW": { "title": "第三章 - 世外桃源" },
+        "zh-CN": { "title": "第三章 - 世外桃源" },
+        "en":    { "title": "Chapter 3 - A Hidden Eden" },
+        "ja":    { "title": "第三章 - 桃源郷" },
+        "ko":    { "title": "제3장 - 무릉도원" },
+        "es":    { "title": "Capítulo 3 - Un Paraíso Oculto" }
       }
     },
     {
       "chapterRange": [11, 13],
       "locales": {
-        "zh-TW": { "title": "第四章 - 重返密林" }
+        "zh-TW": { "title": "第四章 - 重返密林" },
+        "zh-CN": { "title": "第四章 - 重返密林" },
+        "en":    { "title": "Chapter 4 - Return to the Deep Forest" },
+        "ja":    { "title": "第四章 - 密林への帰還" },
+        "ko":    { "title": "제4장 - 밀림으로의 귀환" },
+        "es":    { "title": "Capítulo 4 - Regreso al Bosque Profundo" }
       }
     },
     {
       "chapterRange": [14, 17],
       "locales": {
-        "zh-TW": { "title": "第五章 - 曼春之嫁" }
+        "zh-TW": { "title": "第五章 - 曼春之嫁" },
+        "zh-CN": { "title": "第五章 - 曼春之嫁" },
+        "en":    { "title": "Chapter 5 - Manchun's Wedding" },
+        "ja":    { "title": "第五章 - 曼春の嫁入り" },
+        "ko":    { "title": "제5장 - 만춘의 혼인" },
+        "es":    { "title": "Capítulo 5 - La Boda de Manchun" }
       }
     },
     {
       "chapterRange": [18, 20],
       "locales": {
-        "zh-TW": { "title": "第六章 - 捨修情牽" }
+        "zh-TW": { "title": "第六章 - 捨修情牽" },
+        "zh-CN": { "title": "第六章 - 舍修情牵" },
+        "en":    { "title": "Chapter 6 - Renouncing Cultivation, Bound by Love" },
+        "ja":    { "title": "第六章 - 修行を捨て、情に絡めとられて" },
+        "ko":    { "title": "제6장 - 수행을 버리고 정에 얽매이다" },
+        "es":    { "title": "Capítulo 6 - Renunciando al Cultivo, Atado por el Amor" }
       }
     },
     {
       "chapterRange": [21, 25],
       "locales": {
-        "zh-TW": { "title": "第七章 - 妖王父子" }
+        "zh-TW": { "title": "第七章 - 妖王父子" },
+        "zh-CN": { "title": "第七章 - 妖王父子" },
+        "en":    { "title": "Chapter 7 - The Demon King and His Son" },
+        "ja":    { "title": "第七章 - 妖王父子" },
+        "ko":    { "title": "제7장 - 요왕 부자" },
+        "es":    { "title": "Capítulo 7 - El Rey Demonio y Su Hijo" }
       }
     },
     {
       "chapterRange": [26, 30],
       "locales": {
-        "zh-TW": { "title": "第八章 - 依約而至" }
+        "zh-TW": { "title": "第八章 - 依約而至" },
+        "zh-CN": { "title": "第八章 - 依约而至" },
+        "en":    { "title": "Chapter 8 - As Promised" },
+        "ja":    { "title": "第八章 - 約束通りに" },
+        "ko":    { "title": "제8장 - 약속대로" },
+        "es":    { "title": "Capítulo 8 - Tal Como Prometido" }
       }
     },
     {
       "chapters": [31],
       "locales": {
-        "zh-TW": { "title": "第九章 - 當頭棒喝" }
+        "zh-TW": { "title": "第九章 - 當頭棒喝" },
+        "zh-CN": { "title": "第九章 - 当头棒喝" },
+        "en":    { "title": "Chapter 9 - A Wake-Up Blow" },
+        "ja":    { "title": "第九章 - 頭上の一喝" },
+        "ko":    { "title": "제9장 - 정신이 번쩍 드는 일갈" },
+        "es":    { "title": "Capítulo 9 - Un Golpe de Advertencia" }
       }
     },
     {
       "chapterRange": [32, 34],
       "locales": {
-        "zh-TW": { "title": "第十章 - 棋局之始" }
+        "zh-TW": { "title": "第十章 - 棋局之始" },
+        "zh-CN": { "title": "第十章 - 棋局之始" },
+        "en":    { "title": "Chapter 10 - The Game Begins" },
+        "ja":    { "title": "第十章 - 局の始まり" },
+        "ko":    { "title": "제10장 - 바둑판의 시작" },
+        "es":    { "title": "Capítulo 10 - El Comienzo del Juego" }
       }
     },
     {
       "chapterRange": [35, 37],
       "locales": {
-        "zh-TW": { "title": "第十一章 - 天庭交鋒" }
+        "zh-TW": { "title": "第十一章 - 天庭交鋒" },
+        "zh-CN": { "title": "第十一章 - 天庭交锋" },
+        "en":    { "title": "Chapter 11 - Clash in the Heavenly Court" },
+        "ja":    { "title": "第十一章 - 天庭での激突" },
+        "ko":    { "title": "제11장 - 천정에서의 격돌" },
+        "es":    { "title": "Capítulo 11 - Choque en la Corte Celestial" }
       }
     },
     {
       "chapters": [38],
       "locales": {
-        "zh-TW": { "title": "第十二章 - 乾坤定局" }
+        "zh-TW": { "title": "第十二章 - 乾坤定局" },
+        "zh-CN": { "title": "第十二章 - 乾坤定局" },
+        "en":    { "title": "Chapter 12 - The Fate of Heaven and Earth Decided" },
+        "ja":    { "title": "第十二章 - 乾坤の定局" },
+        "ko":    { "title": "제12장 - 건곤의 판가름" },
+        "es":    { "title": "Capítulo 12 - El Destino del Cielo y la Tierra Decidido" }
       }
     },
     {
       "chapterRange": [39, 41],
       "locales": {
-        "zh-TW": { "title": "第十三章 - 終章" }
+        "zh-TW": { "title": "第十三章 - 終章" },
+        "zh-CN": { "title": "第十三章 - 终章" },
+        "en":    { "title": "Chapter 13 - Final Chapter" },
+        "ja":    { "title": "第十三章 - 終章" },
+        "ko":    { "title": "제13장 - 종장" },
+        "es":    { "title": "Capítulo 13 - Capítulo Final" }
       }
     }
   ]

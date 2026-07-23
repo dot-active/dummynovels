@@ -68,6 +68,28 @@
         "ko":    { "title": "제3장 - 유품을 보며 그리운 사람을 생각하다" },
         "es":    { "title": "Capítulo 3 - Un Recuerdo, y Memorias de la Difunta" }
       }
+    },    
+    {
+      "chapters": [11],
+      "locales": {
+        "zh-TW": { "title": "第四章 - 父子情深" },
+        "zh-CN": { "title": "第四章 - 父子情深" },
+        "en":    { "title": "Chapter 4 - A Father and Son's Deep Bond" },
+        "ja":    { "title": "第四章 - 父子の深き情" },
+        "ko":    { "title": "제4장 - 부자간의 깊은 정" },
+        "es":    { "title": "Capítulo 4 - El Profundo Vínculo entre Padre e Hijo" }
+      }
+    },
+        {
+      "chapterRange": [12, 14],
+      "locales": {
+        "zh-TW": { "title": "第五章 - 長安劇變" },
+        "zh-CN": { "title": "第五章 - 长安剧变" },
+        "en":    { "title": "Chapter 5 - Upheaval in Chang'an" },
+        "ja":    { "title": "第五章 - 長安大変" },
+        "ko":    { "title": "제5장 - 장안 대변란" },
+        "es":    { "title": "Capítulo 5 - El Cambio Súbito en Chang'an" }
+      }
     }
 
 
