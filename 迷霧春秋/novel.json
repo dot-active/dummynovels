@@ -1,14 +1,22 @@
 {
   "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
-  "categories": ["romance","fantasy"],
+  "categories": [
+    "romance",
+    "fantasy"
+  ],
   "isAdult": false,
   "isFeatured": true,
-  "autoTranslateLocales": ["zh-CN", "en", "ja", "ko", "es"],
-  "coverUrl": "",
+  "autoTranslateLocales": [
+    "zh-CN",
+    "en",
+    "ja",
+    "ko",
+    "es"
+  ],
+  "coverUrl": "https://pub-f524849484ab48198adbfa2079402a06.r2.dev/covers/ada3ed83-1951-4780-b834-f1f026737b4b.jpg",
   "status": "published",
+  "novelStatus": "COMPLETED",
   "sourceLocale": "zh-TW",
-
-
   "locales": {
     "zh-TW": {
       "title": "迷霧春秋",
@@ -37,25 +45,55 @@
   },
   "volumes": [
     {
-      "chapterRange": [1, 3],
+      "chapterRange": [
+        1,
+        3
+      ],
       "locales": {
-        "zh-TW": { "title": "第一章 - 迷霧" },
-        "zh-CN": { "title": "第一章 - 迷雾" },
-        "en":    { "title": "Chapter 1 - The Mist" },
-        "ja":    { "title": "第一章 - 霧" },
-        "ko":    { "title": "제1장 - 안개" },
-        "es":    { "title": "Capítulo 1 - La Niebla" }
+        "zh-TW": {
+          "title": "第一章 - 迷霧"
+        },
+        "zh-CN": {
+          "title": "第一章 - 迷雾"
+        },
+        "en": {
+          "title": "Chapter 1 - The Mist"
+        },
+        "ja": {
+          "title": "第一章 - 霧"
+        },
+        "ko": {
+          "title": "제1장 - 안개"
+        },
+        "es": {
+          "title": "Capítulo 1 - La Niebla"
+        }
       }
     },
     {
-      "chapterRange": [4, 6],
+      "chapterRange": [
+        4,
+        6
+      ],
       "locales": {
-        "zh-TW": { "title": "第二章 - 清溪小鎮" },
-        "zh-CN": { "title": "第二章 - 清溪小镇" },
-        "en":    { "title": "Chapter 2 - Clearstream Town" },
-        "ja":    { "title": "第二章 - 清渓の小さな町" },
-        "ko":    { "title": "제2장 - 청계 소진" },
-        "es":    { "title": "Capítulo 2 - El Pueblo del Arroyo Claro" }
+        "zh-TW": {
+          "title": "第二章 - 清溪小鎮"
+        },
+        "zh-CN": {
+          "title": "第二章 - 清溪小镇"
+        },
+        "en": {
+          "title": "Chapter 2 - Clearstream Town"
+        },
+        "ja": {
+          "title": "第二章 - 清渓の小さな町"
+        },
+        "ko": {
+          "title": "제2장 - 청계 소진"
+        },
+        "es": {
+          "title": "Capítulo 2 - El Pueblo del Arroyo Claro"
+        }
       }
     },
     {
