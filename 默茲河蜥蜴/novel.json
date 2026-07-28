@@ -1,0 +1,35 @@
+{
+  "authorId": "user_3H5Qk7ctYhX4NqhdYIlVnlfetrA",
+  "categories": [
+    "mystery",
+    "other"
+  ],
+  "isAdult": false,
+  "isFeatured": true,
+  "coverUrl": "https://pub-f524849484ab48198adbfa2079402a06.r2.dev/covers/e88eaec7-41fe-44f2-8bf8-1b8b98e1c6fc.jpg",
+  "novelStatus": "ONGOING",
+  "publishStatus": "published",
+  "sourceLocale": "zh-TW",
+  "locales": {
+    "zh-TW": {
+      "title": "默茲河蜥蜴",
+      "description": "一個平凡無奇的美國鄉村小鎮，一條貫穿小鎮與保護區的大河，然後，一點點非日常的事件就這麼在好幾天裡默默開始。"
+    },
+    "es": {
+      "title": "Lagarto del Mosa",
+      "description": "Un pueblo estadounidense común y corriente, un gran río que atraviesa el pueblo y la reserva natural, y entonces, pequeños sucesos extraordinarios comenzaron a desarrollarse silenciosamente durante varios días."
+    },
+    "en": {
+      "title": "The Meuse Lizard",
+      "description": "An unremarkable American country town, a great river running through the town and the reserve, and then, little by little, extraordinary events began to unfold quietly over the course of several days."
+    },
+    "ko": {
+      "title": "뫼즈강의 도마뱀",
+      "description": "평범하기 그지없는 미국의 시골 마을, 마을과 보호구역을 가로지르는 큰 강, 그리고 일상에서 벗어난 작은 사건들이 며칠에 걸쳐 조용히 시작되었다."
+    },
+    "ja": {
+      "title": "ムーズ川のトカゲ",
+      "description": "何の変哲もないアメリカの田舎町。町と保護区を貫く大きな川。そして、ほんの少しだけ日常とは異なる出来事が、数日にわたって密かに始まっていた。"
+    }
+  }
+}
