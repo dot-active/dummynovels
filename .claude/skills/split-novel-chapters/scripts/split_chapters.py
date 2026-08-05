@@ -62,7 +62,10 @@ STYLES = {
 # dominant numbering style (front matter, interludes, back matter, extras).
 SPECIAL_MARKERS = re.compile(
     r"^(序章|楔子|引子|序言|前言|自序|尾声|尾聲|终章|終章|後記|后记|後序|后序"
-    r"|结局|結局|外传|外傳|番外(?:篇)?\s*" + CN_NUM + r"?|结语|結語)\b"
+    r"|结局|結局|外传|外傳|番外(?:篇)?\s*" + CN_NUM + r"?|结语|結語"
+    r"|prologue|epilogue|preface|foreword|afterword|introduction|interlude"
+    r"|appendix|acknowledge?ments?|author'?s\s+note)\b",
+    re.IGNORECASE,
 )
 
 # Strip Markdown/decoration noise from the front of a line before matching,
