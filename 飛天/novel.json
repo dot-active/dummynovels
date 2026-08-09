@@ -1,0 +1,39 @@
+{
+  "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
+   "categories": [
+    "romance",
+    "historical"
+  ],
+  "isAdult": false,
+  "isFeatured": true,
+  "autoTranslateLocales": ["zh-CN", "en", "ja", "ko", "es"],
+  "coverUrl": "",
+  "status": "published",
+  "writingLanguage": "zh-TW",
+  "locales": {
+    "zh-TW": {
+      "title": "飛天",
+      "description": "中唐沙州，一座新鑿的洞窟中，十八歲的畫師王二郎第一次得到師父信任，獨力承擔窟中所有飛天的繪製。為了不負師門，他日日攀上高聳棧架，在幽暗洞窟中焚膏繼晷。隨著一尊尊飛天逐漸完成，王二郎從最初的戒慎惶恐，到後來看著自己的作品，也有了幾分躊躇滿志。直到某一天，一名陌生小娘子突然出現在高高的棧架上。此時的王二郎完全不知道，小娘子的出現將會為他接下來的人生帶來什麼重大改變……"
+    },
+    "zh-CN": {
+      "title": "飞天",
+      "description": "中唐沙州，一座新凿的洞窟中，十八岁的画师王二郎第一次得到师父信任，独力承担窟中所有飞天的绘制。为了不负师门，他日日攀上高耸栈架，在幽暗洞窟中焚膏继晷。随着一尊尊飞天逐渐完成，王二郎从最初的戒慎惶恐，到后来看着自己的作品，也有了几分踌躇满志。直到某一天，一名陌生小娘子突然出现在高高的栈架上。此时的王二郎完全不知道，小娘子的出现将会为他接下来的人生带来什么重大改变……"
+    },
+    "en": {
+      "title": "Flying Apsara",
+      "description": "In Shazhou during the mid-Tang dynasty, inside a newly carved cave temple, eighteen-year-old painter Wang Erlang is entrusted for the first time by his master with painting all the flying apsaras within the grotto alone. Determined not to disappoint his teacher, he climbs the towering scaffolding day after day, laboring by lamplight deep into the night within the dim cave. As the apsaras take shape one by one, Wang Erlang's early trepidation gradually gives way to a quiet pride in his work. Then one day, a mysterious young woman suddenly appears atop the towering scaffold. Wang Erlang has no idea what profound change her arrival is about to bring to the rest of his life…"
+    },
+    "ja": {
+      "title": "飛天",
+      "description": "中唐の沙州、新たに開削された石窟の中で、十八歳の画師・王二郎は初めて師匠から信頼を受け、窟内のすべての飛天の彩色を一人で任される。師の教えに背かぬよう、彼は日々高く組まれた足場に登り、薄暗い洞窟の中で夜を徹して絵筆を執る。飛天が一体また一体と姿を現していくにつれ、王二郎の最初の戒めと恐れは、やがて自らの作品を見つめる誇らしさへと変わっていった。そんなある日、見知らぬ小さな娘子が突然、あの高い足場の上に現れる。このとき王二郎はまだ知らない――彼女の出現が、これから先の自分の人生にどれほど大きな変化をもたらすことになるのかを……"
+    },
+    "ko": {
+      "title": "비천",
+      "description": "중당(中唐) 시기 사주(沙州), 새로 뚫린 석굴 안에서 열여덟 살의 화가 왕얼랑은 처음으로 스승의 신임을 얻어 굴 안의 모든 비천(飛天) 벽화를 홀로 맡게 된다. 스승의 가르침을 저버리지 않기 위해 그는 날마다 높이 세운 발판 위에 올라 어두컴컴한 동굴 속에서 밤새 붓을 놓지 않는다. 비천상이 하나둘 완성되어 갈수록, 처음의 조심스럽던 두려움은 어느새 자신의 작품을 바라보는 자부심으로 바뀌어 간다. 그러던 어느 날, 낯선 소낭자(小娘子) 하나가 갑자기 그 높은 발판 위에 나타난다. 이때 왕얼랑은 아직 알지 못한다, 그녀의 등장이 앞으로 그의 인생에 얼마나 커다란 변화를 가져올 것인지를……"
+    },
+    "es": {
+      "title": "Apsara Voladora",
+      "description": "En Shazhou, durante la dinastía Tang media, en el interior de una gruta recién excavada, el joven pintor Wang Erlang, de dieciocho años, recibe por primera vez la confianza de su maestro: se le encarga, él solo, pintar todas las apsaras voladoras de la gruta. Decidido a no defraudar las enseñanzas de su maestro, sube día tras día al elevado andamiaje y trabaja hasta bien entrada la noche en la penumbra de la caverna. A medida que las apsaras van tomando forma una a una, el temor y la cautela iniciales de Wang Erlang dan paso a un callado orgullo por su obra. Hasta que, un día, una misteriosa joven aparece de pronto en lo alto del andamio. Wang Erlang no tiene ni idea, en ese momento, del profundo cambio que la llegada de esta joven está a punto de traer al resto de su vida…"
+    }
+  }
+}
