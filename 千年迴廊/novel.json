@@ -1,0 +1,91 @@
+{
+  "authorId": "user_3GZaci7UeFWJHC5rSPpnvBbNkbA",
+  "categories": [
+    "romance",
+    "historical"
+  ],
+  "isAdult": false,
+  "isFeatured": true,
+  "autoTranslateLocales": [
+    "zh-CN",
+    "en",
+    "ja",
+    "ko",
+    "es"
+  ],
+  "coverUrl": "https://pub-f524849484ab48198adbfa2079402a06.r2.dev/covers/67718307-6e7b-49df-8c22-c19b6d97fda3.jpg",
+  "status": "published",
+  "writingLanguage": "zh-TW",
+  "locales": {
+    "zh-TW": {
+      "title": "千年迴廊——中華文化故事集",
+      "description": "走在中華文化幽深曲折、雕梁畫棟的迴廊裡，一個個曾經鮮活的身影從歷史深處緩緩走來。他們或許沒有留下姓名，或許曾在歷史上留下足跡；有些故事早已湮沒於歲月，有些文化與智慧卻歷久彌新。迴廊很長，故事很多。走進去，我們看見的不只是過去，還有千百年來始終相通的人心。",
+      "metaTitle": "千年迴廊——中華文化故事集｜線上免費閱讀",
+      "metaDescription": "走進中華文化的幽深迴廊，看見歷史深處緩緩走來的身影。無名者的故事、歷久彌新的文化與智慧，以及千百年來始終相通的人心。",
+      "metaKeywords": "中華文化, 歷史故事, 文化故事集, 千年迴廊, 古代傳說, 線上小說"
+    },
+    "zh-CN": {
+      "title": "千年回廊——中华文化故事集",
+      "description": "走在中华文化幽深曲折、雕梁画栋的回廊里，一个个曾经鲜活的身影从历史深处缓缓走来。他们或许没有留下姓名，或许曾在历史上留下足迹；有些故事早已湮没于岁月，有些文化与智慧却历久弥新。回廊很长，故事很多。走进去，我们看见的不只是过去，还有千百年来始终相通的人心。",
+      "metaTitle": "千年回廊——中华文化故事集｜在线免费阅读",
+      "metaDescription": "走进中华文化的幽深回廊，看见历史深处缓缓走来的身影。无名者的故事、历久弥新的文化与智慧，以及千百年来始终相通的人心。",
+      "metaKeywords": "中华文化, 历史故事, 文化故事集, 千年回廊, 古代传说, 在线小说"
+    },
+    "en": {
+      "title": "The Thousand-Year Corridor: Tales of Chinese Culture",
+      "description": "Walking through the deep, winding corridor of Chinese culture, with its carved beams and painted rafters, one vivid figure after another emerges slowly from the depths of history. Some left no name behind; others left footprints upon the pages of history. Some stories have long since faded into the passage of time, while certain cultures and wisdoms remain forever fresh. The corridor is long, and its stories are many. Walking into it, what we see is not only the past, but also the human heart that has remained, across a thousand years, forever the same.",
+      "metaTitle": "The Thousand-Year Corridor: Tales of Chinese Culture",
+      "metaDescription": "Figures from the depths of history step forward in this collection of Chinese cultural tales: forgotten names, enduring wisdom, timeless hearts.",
+      "metaKeywords": "Chinese culture, Chinese history, historical fiction, folklore, short stories, web novel"
+    },
+    "ja": {
+      "title": "千年回廊――中華文化物語集",
+      "description": "彫梁画棟をめぐらせた、幽玄にして曲がりくねる中華文化の回廊を歩けば、かつて生きた人々の面影が、歴史の奥底から静かに歩み出てくる。名を残さなかった者もいれば、歴史にその足跡を刻んだ者もいる。歳月の中にとうに埋もれてしまった物語もあれば、時を経てなお色褪せぬ文化と智慧もある。回廊は長く、物語は数知れない。そこへ足を踏み入れるとき、私たちが目にするのは過去だけではない。幾千年を経てなお変わらぬ、人の心そのものでもあるのだ。",
+      "metaTitle": "千年回廊――中華文化物語集｜無料オンライン小説",
+      "metaDescription": "中華文化の幽玄な回廊を歩き、歴史の奥底から現れる人々の面影に出会う。名もなき者の物語、色褪せぬ文化と智慧、そして千年を経ても変わらぬ人の心。",
+      "metaKeywords": "中華文化, 歴史物語, 中国文化, 千年回廊, 伝説, オンライン小説"
+    },
+    "ko": {
+      "title": "천년 회랑 — 중화 문화 이야기집",
+      "description": "조각된 대들보와 채색된 서까래가 늘어선, 그윽하고 굽이진 중화 문화의 회랑을 걷노라면, 한때 생생히 살아 있던 이들의 모습이 역사의 깊은 곳에서 천천히 걸어 나온다. 어떤 이는 이름을 남기지 못했고, 어떤 이는 역사에 발자취를 남겼다. 어떤 이야기는 이미 세월 속에 묻혀버렸지만, 어떤 문화와 지혜는 시간이 흘러도 여전히 새롭다. 회랑은 길고, 이야기는 많다. 그 안으로 걸어 들어가면, 우리가 보게 되는 것은 과거만이 아니다. 수천 년이 지나도 변함없이 통하는 사람의 마음 또한 그곳에 있다.",
+      "metaTitle": "천년 회랑 — 중화 문화 이야기집 | 무료 온라인 소설",
+      "metaDescription": "중화 문화의 그윽한 회랑을 걸으며 역사 깊은 곳에서 걸어 나오는 이들을 만난다. 이름 없는 이의 이야기, 바래지 않는 문화와 지혜, 천년이 흘러도 변함없는 마음.",
+      "metaKeywords": "중화 문화, 역사 이야기, 중국 문화, 천년 회랑, 전설, 온라인 소설"
+    },
+    "es": {
+      "title": "El Corredor de los Mil Años: Cuentos de la Cultura China",
+      "description": "Al recorrer el profundo y sinuoso corredor de la cultura china, con sus vigas talladas y sus techos pintados, figuras que una vez estuvieron vivas emergen lentamente desde las profundidades de la historia. Algunas no dejaron su nombre; otras dejaron su huella en la historia. Algunas historias hace tiempo que se desvanecieron con los años, mientras que ciertas culturas y sabidurías permanecen tan frescas como siempre. El corredor es largo, y sus historias son muchas. Al adentrarnos en él, lo que vemos no es solo el pasado, sino también el corazón humano que, a lo largo de miles de años, ha permanecido siempre el mismo.",
+      "metaTitle": "El Corredor de los Mil Años: Cuentos de la Cultura China",
+      "metaDescription": "Figuras surgidas de la historia recorren este corredor de cuentos chinos: nombres olvidados, sabiduría perenne y un corazón humano inmutable.",
+      "metaKeywords": "cultura china, historia de China, ficción histórica, folclore, relatos cortos, novela web"
+    }
+  },
+  "volumes": [
+    {
+      "chapterRange": [
+        1,
+        12
+      ],
+      "locales": {
+        "zh-TW": {
+          "title": "飛天"
+        },
+        "zh-CN": {
+          "title": "飞天"
+        },
+        "en": {
+          "title": "Flying Apsara"
+        },
+        "ja": {
+          "title": "飛天"
+        },
+        "ko": {
+          "title": "비천"
+        },
+        "es": {
+          "title": "Apsara Voladora"
+        }
+      }
+    }
+  ]
+}
