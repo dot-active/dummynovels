@@ -86,6 +86,32 @@
           "title": "Apsara Voladora"
         }
       }
+    },
+    {
+      "chapterRange": [
+        13,
+        25
+      ],
+      "locales": {
+        "zh-TW": {
+          "title": "唐三彩"
+        },
+        "zh-CN": {
+          "title": "唐三彩"
+        },
+        "en": {
+          "title": "Tang Tricolor"
+        },
+        "ja": {
+          "title": "唐三彩"
+        },
+        "ko": {
+          "title": "당삼채"
+        },
+        "es": {
+          "title": "Sancai de Tang"
+        }
+      }
     }
   ]
 }
