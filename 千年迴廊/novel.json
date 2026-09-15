@@ -112,6 +112,32 @@
           "title": "Sancai de Tang"
         }
       }
+    },
+    {
+      "chapterRange": [
+        26,
+        37
+      ],
+      "locales": {
+        "zh-TW": {
+          "title": "蜀錦"
+        },
+        "zh-CN": {
+          "title": "蜀锦"
+        },
+        "en": {
+          "title": "Shu Brocade"
+        },
+        "ja": {
+          "title": "蜀錦"
+        },
+        "ko": {
+          "title": "촉금"
+        },
+        "es": {
+          "title": "Brocado de Shu"
+        }
+      }
     }
   ]
 }
