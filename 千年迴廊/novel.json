@@ -138,6 +138,32 @@
           "title": "Brocado de Shu"
         }
       }
+    },
+    {
+      "chapterRange": [
+        38,
+        53
+      ],
+      "locales": {
+        "zh-TW": {
+          "title": "青花引"
+        },
+        "zh-CN": {
+          "title": "青花引"
+        },
+        "en": {
+          "title": "Ballad of Blue-and-White"
+        },
+        "ja": {
+          "title": "青花引"
+        },
+        "ko": {
+          "title": "청화인"
+        },
+        "es": {
+          "title": "Balada del Azul y Blanco"
+        }
+      }
     }
   ]
 }
