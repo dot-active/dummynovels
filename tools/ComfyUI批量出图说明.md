@@ -78,7 +78,7 @@ python comfyui_batch.py 邀月/宣传视频脚本.md workflow_api.json --batch 4
 |---|---|---|
 | 邀月 | 17 张（01–17） | 缩略图 `thumb` |
 | 被活埋的种子 | 26 张 | 缩略图 `thumb`；镜头 12 的备用版 `12b` |
-| 屠牛老师 | 19 张 | 缩略图 `thumb`（脚本还在分支上，merge 到 main 以后才有） |
+| 屠牛老师 | 19 张 | 缩略图 `thumb` |
 
 黑屏、字卡这类不用出图的镜头会自动跳过。
 
